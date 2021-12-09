@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marketpaketi-174114",
+  "private_key_id": "fd55d38e8018633376c1fd736a8adceafecb1011",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrhO1JOOpor+W5\nPim0x6gkYAaRFaTgTcSCz8Ikt3ZTtpapvyoe5KtIpCxwvcepHAxTQ6haopaVPwNI\nA/hV/DLI1broq545fzcQ/BNqu0ncaLw4sqU7QgvLlvTEuIu47QLXMTdPUHX4qvfi\nGXSzPOTPStGWEtjZkJu45fUtjX1TCuHImtPIm4SiWxEjOjDlpEtBwIAiFaQ4g5Ia\nTqrFoCrKcBKl0BlnW3huObuQI6nkYU6iSntwxV6uCczrtrcL/MVcDPSYjDkLqxxI\neB9EGcy7ahvVYrKZT2Xori9pP4MjKCCBoCzooimBxbFMWA7bRzgYHVwCUub3bZ1F\nGtW/xcPhAgMBAAECggEABIpQw7Lw1ZOZF6sTFzjVH8gLnx89DZOmw4sKCccc0pYk\nl9q6cTXpaNNbuneeR5Y5UfeaXHKDB5wIPgmeMxx+yv00D5ZXamXj3ccRIS6oWQrM\nDLjXPIyA28NOYxS63MrSsUKZbbfktOVFtDkAngFbJzeaTl2HsFQDze8HFffHB6yD\naoAlfTb0/M9/ECYeCQlXLhIkIK8eZrhbYkZTXj/xdY60xj2e4c0AZndoQoZLTNpk\nMqsCcjXTXyAyLol5Lr6678LMpnRVp/+zxzb+fmDi10Zoo1VtyU+Npie9/JJnSR+s\n+6ACjr+lrikYs97Yrr5EtTAFvKj4TI1tQvt0uhglCQKBgQDofZ3aniIeoStZ1i3u\nt8o8NAjXESKeOm2Rhq14SWbvqS4+UbyWXQsB7RxzbGvDZFQrsAN0td/IAYGcZyen\n5MBPb0Gi8kgJXad2SsdzK/p8FiQrdY0FFWPWVieJJV6T/UH9S7RKdHBV2D68zTIw\n5mW9GUOYRZtQWJJsemApfFRJxQKBgQC83Pg0HSb0KxKQ6ak9dXz2ePlfA7sCkrgc\neLenttWkqcEtigCB0npwoY7Mo1RFXM3lxahgo2TZ2Pz3U6SSO3DYCDsjB+Hw6mOZ\nKkN+K9cGci3TMc8qz74qgk9XS90FJ99I3ndByqlwO2czHj1rmvjT1f2PZgqmD/Ss\nRIlIG92fbQKBgAiuQAmco+t+2w6Ep7xlEmEDFF1rX16HEfZAEBQQsY47Q+XByYfX\nu4R75PcOUku+YEItVUOzUsK2A6/iTiG/scqFfe7mmvf2jj0ld6L+PmEJtpoEzpok\n/VBQcTN2uLxP1XnurLGm/VbHNzh3dOtMfvn7ioGR/8WVOQph21tRMBh9AoGARBW8\n/LyNsHReqxMxSdCzDf+qlpA3uMO/z7PNMY7+EfCIjaw0ZpjEPxpe6nLvDFpad7z7\n6Gq/DrHk8BydNYJsOdUtzIEo+Lrm0O6lijSvvcknr/1C3AIsYhK8G5JjyVoIarKY\nd4Vh8+3WVF1QcxxZG7UHRczZheg2omvKuc4h5TkCgYEA06wm81JksT8J8acR7C0W\nz8J1WgIOg00QIOOngrwzRm/K5V+A5wFkxRdCo1cEITmlWp2FWdue9984KoLEyfce\nBmCH6OjWwhPMxDLSRj7Er4A/FUElr6w9etvsqgMExiulLxBAhpgYge11nmqD181i\n7s+ulBzdE1PSqrILJkT3AOg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api@marketpaketi-174114.iam.gserviceaccount.com",
+  "client_id": "101698786989059072032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api%40marketpaketi-174114.iam.gserviceaccount.com"
+}

@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+Disallow: /uye-girisi
+Disallow: /uye-ol
+Disallow: /sifremi-unuttum
+Disallow: /sepet
+Disallow: /sepet/*
+Disallow: /hesabim
+Disallow: /hesabim/*
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /cart
+Disallow: /cart/*
+Disallow: /order
+Disallow: /order/*
+Disallow: /refundRequest
+Disallow: /refundRequest/*
+Disallow: /bulten/kayit
+Disallow: /bulten/*
+
+
+Sitemap: https://www.marketpaketi.com.tr/sitemap.xml
